@@ -1,7 +1,7 @@
 # dataStructure-and-Algorithm
 It a sample Project which contains Searching , Sorting, Time Complexity, all data structure and their complexity
 
-##Searching  
+## Searching  
 There two types of search in java.
 
 # Linear Search  
