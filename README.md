@@ -27,3 +27,14 @@ case 2 - if the Searched item < the middle Item then, it will follow the same pr
 
  ### Diagram for Binary Search
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/binarysearch.png)
+
+
+# Different Sorting Algorithms  
+There are many different techniques available for sorting, differentiated by their efficiency and space requirements. Following are some sorting techniques which we will be covering in next few tutorials.  
+  
+**1. Bubble Sort  
+2. Insertion Sort  
+3. Selection Sort  
+4. Quick Sort  
+5. Merge Sort  
+6. Heap Sort**  
