@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="sptech.datastructureandalgorithm">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".searching.SearchingActivity">
+        </activity>
+        <activity android:name=".shorting.ShortingActivity">
+        </activity>
+        <activity android:name=".database.DatabaseActivity">
+        </activity>
+        <activity android:name=".timeComplexity.TImeComplexityActivity">
+        </activity>
+        <activity android:name=".spaceComplexity.SpaceComplexityActivity">
+        </activity>
+    </application>
+
+</manifest>
