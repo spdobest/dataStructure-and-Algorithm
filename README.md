@@ -16,8 +16,14 @@ For example the linear Search logic will be like Below
         }  
     }  
       
+ ### Diagram for Linear Search
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/linearSearch.gif)
+      
 ## Binary Search
 Binary search will be work only if the array is sorted. in this case the array will be devided by 2 parts.  
 1. It will check if the middle item of the array is less than, equal or greater than the searched item
 case 1  - if the searchd item == the middle item then, return the position
 case 2 - if the Searched item < the middle Item then, it will follow the same process
+
+ ### Diagram for Binary Search
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/binarysearch.png)
