@@ -22,9 +22,9 @@ For example the linear Search logic will be like Below
 ## Binary Search
 Binary search will be work only if the array is sorted. in this case the array will be devided by 2 parts.  
 1. It will check if the middle item of the array is less than, equal or greater than the searched item
-case 1  - if the searchd item == the middle item then, return the position
-case 2 - if the Searched item < the middle Item then, it will follow the same process
-case 3 - if the searched item > the middle item then, fullow the same method by passing first position as the middle position and last position as the list size -1.
+case 1  - if the searchd item == the middle item then, return the position  
+case 2 - if the Searched item < the middle Item then, it will follow the same process  
+case 3 - if the searched item > the middle item then, fullow the same method by passing first position as the middle   position and last position as the list size -1.  
 
  ### Diagram for Binary Search
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/binarysearch.png)
@@ -45,9 +45,9 @@ It have the worst case and average time complexity of O(n2), where n is the numb
 First one item will be compare with the other items present in the array. if it is smaller number or larger number, it will be swap accordingly. Similary this loop will continue  
   
 **Time Complexity of Bubble Sort** 
-Best Case    : n
-Average Case : n square
-Worst Case   : n square
+Best Case    : n  
+Average Case : n square  
+Worst Case   : n square  
     
 **Here is the Diagram and Example **  
   
@@ -97,9 +97,9 @@ Worst Case   : n square
     
    
 **Time Complexity of Selection Sort** 
-Best Case    : n square
-Average Case : n square
-Worst Case   : n square
+Best Case    : n square  
+Average Case : n square  
+Worst Case   : n square  
        
       
  ### Diagram for Selection Sort
@@ -112,7 +112,7 @@ Insertion sort is a simple sorting algorithm, it builds the final sorted array o
   
 **Advantages of Insertion Sort:**     
   
-1) It is very simple.  
+1) It is very simple.    
 2) It is very efficient for small data sets.  
 3) It is stable; i.e., it does not change the relative order of elements with equal keys.  
 4) In-place; i.e., only requires a constant amount O(1) of additional memory space.  
@@ -138,9 +138,9 @@ Insertion sort iterates through the list by consuming one input element at each 
     
     
 **Time Complexity of Insertion Sort** 
-Best Case    : n
-Average Case : n Square
-Worst Case   : n Square
+Best Case    : n  
+Average Case : n Square  
+Worst Case   : n Square  
      
  ### Diagram for Insertion Sort
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/insertion_sort.png)      
@@ -150,9 +150,9 @@ Worst Case   : n Square
   
     
 **Time Complexity** 
-Best Case    : n log n
-Average Case : n log n
-Worst Case   : n Square  
+Best Case    : n log n  
+Average Case : n log n  
+Worst Case   : n Square    
   
  ### Diagram for Selection Sort
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/quick_sort1.png)    
@@ -165,9 +165,9 @@ Worst Case   : n Square
      
        
 **Time Complexity** 
-Best Case    : n log n
-Average Case : n log n
-Worst Case   : n log n
+Best Case    : n log n  
+Average Case : n log n  
+Worst Case   : n log n  
     
  ### Diagram for Merge Sort
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort1.png)  
@@ -178,9 +178,9 @@ Worst Case   : n log n
   
     
 **Time Complexity** 
-Best Case    : n , if all keys are distinct else n log n
-Average Case : n log n
-Worst Case   : n log n  
+Best Case    : n , if all keys are distinct else n log n  
+Average Case : n log n  
+Worst Case   : n log n    
 
 **Q. Which the best sorting Algorithm ?**
 Mergesort is up there with the fastest standard sort algorithms. The default Collections.sort() implementation in Java 7 is a Mergesort algorithm adapted from 'TimSort.' The default Arrays.sort() implementation in Java 7 is a dual pivot Quicksort.  
