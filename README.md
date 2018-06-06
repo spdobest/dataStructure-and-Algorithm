@@ -187,7 +187,7 @@ Mergesort is up there with the fastest standard sort algorithms. The default Col
   
     
  ### Diagram for Heap Sort
- ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/heap_sort.png)   
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/heap_sort.jpg)   
   
     
  
