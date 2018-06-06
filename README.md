@@ -75,6 +75,8 @@ Worst Case   : n square
         array[j] = temp;  
     }  
       
+ ### Diagram for Bubble Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/buble_sort.png)        
 ## Selection Sort  
 
   public static int[] doSelectionSort(int[] arr){  
@@ -99,10 +101,11 @@ Best Case    : n square
 Average Case : n square
 Worst Case   : n square
        
-**Diagram of Selection Sort  
+      
+ ### Diagram for Selection Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/selection_sort.png)     
+   
   
-
-    
 ## Insertion Sort  
   
 Insertion sort is a simple sorting algorithm, it builds the final sorted array one item at a time. It is much less efficient on large lists than other sort algorithms.  
@@ -138,7 +141,10 @@ Insertion sort iterates through the list by consuming one input element at each 
 Best Case    : n
 Average Case : n Square
 Worst Case   : n Square
-    
+     
+ ### Diagram for Insertion Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/insertion_sort.png)      
+     
 ## Quick Sort  
   
   
@@ -146,8 +152,14 @@ Worst Case   : n Square
 **Time Complexity** 
 Best Case    : n log n
 Average Case : n log n
-Worst Case   : n Square
-    
+Worst Case   : n Square  
+  
+ ### Diagram for Selection Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/quick_sort1.png)    
+ 
+   
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/quick_sort2.png)     
+ 
 ## Merge Sort  
     
      
@@ -157,6 +169,11 @@ Best Case    : n log n
 Average Case : n log n
 Worst Case   : n log n
     
+ ### Diagram for Merge Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort1.png)  
+   
+  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort2.png)    
+  
 ## Heap Sort  
   
     
@@ -168,6 +185,9 @@ Worst Case   : n log n
 **Q. Which the best sorting Algorithm ?**
 Mergesort is up there with the fastest standard sort algorithms. The default Collections.sort() implementation in Java 7 is a Mergesort algorithm adapted from 'TimSort.' The default Arrays.sort() implementation in Java 7 is a dual pivot Quicksort.  
   
+    
+ ### Diagram for Heap Sort
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/heap_sort.png)   
   
     
  
