@@ -172,7 +172,7 @@ Worst Case   : n log n
  ### Diagram for Merge Sort
  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort1.png)  
    
-  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort2.png)    
+  ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/merge_sort2.gif)    
   
 ## Heap Sort  
   
