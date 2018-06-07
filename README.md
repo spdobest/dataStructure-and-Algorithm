@@ -143,7 +143,7 @@ Insertion sort iterates through the list by consuming one input element at each 
 **Worst Case**   : n Square  
      
  ### Diagram for Insertion Sort
- ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/insertion_sort.png)      
+ ![alt tag](https://github.com/spdobest/dataStructure-and-Algorithm/blob/master/images/insertion-sort.png)      
      
 ## Quick Sort  
   
